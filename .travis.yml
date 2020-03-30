@@ -106,7 +106,7 @@ jobs:
           if [ -n "$tagName" ];
           then
             git tag v$tagName
-            git push -q https://$GITHUB_TOKEN@github.com/serverless/inquirerch --tags
+            git push -q https://$GITHUB_TOKEN@github.com/serverless/inquirer --tags
           fi
 
     # version tag
