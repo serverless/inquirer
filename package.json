@@ -8,6 +8,11 @@
     "serverless"
   ],
   "author": "Serverless, Inc.",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.1.0",
+    "ncjsm": "^4.0.1"
+  },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@serverless/eslint-config": "^1.2.1",
