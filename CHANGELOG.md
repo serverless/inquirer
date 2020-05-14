@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/serverless/inquirer/compare/v1.1.0...v1.1.1) (2020-05-14)
+
+### Bug Fixes
+
+- Downgrade chalk to v2 to ensure Node.js v6 support ([7cfcd80](https://github.com/serverless/inquirer/commit/7cfcd802b164f545c7606cfa56aee1f26b0ae5c6))
+
 ## [1.1.0](https://github.com/serverless/inquirer/compare/v1.0.0...v1.1.0) (2020-03-30)
 
 ### Features
