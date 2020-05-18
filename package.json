@@ -10,7 +10,7 @@
   "author": "Serverless, Inc.",
   "dependencies": {
     "chalk": "^2.0.1",
-    "inquirer": "^7.1.0",
+    "inquirer": "^6.5.2",
     "ncjsm": "^4.0.1"
   },
   "devDependencies": {
